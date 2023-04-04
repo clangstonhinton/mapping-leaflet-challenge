@@ -9,7 +9,7 @@ OBJECTIVE:  Visualize the United States Geological Survey (USGS) earthquake data
 - Data for the past 7 days was used for this visualization.
 
 ## Approach
-- The data was imported as a JSON file from the website URL.
+- The data was imported as a JSON file from the website URL via a geojson API and D3.
 - Leaflet was used to create a map that plots all the earthquakes from the Past 7 Days based on the latitude and longitude of the earthquake location.
 - The markers reflect the magnitude of the earthquake by their size, with higher magnitude earthqukes appearing larger.
 - The colors of the markers reflect the depth of the earthquake, with deeper depths appearing darker in color.
