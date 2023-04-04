@@ -1,5 +1,5 @@
 # mapping-leaflet-challenge
-Objective:  Visualize the United States Geological Survey (USGS) earthquake data via Leaflet mapping library, Javascript, HTML, CSS and Bootstrapping.
+OBJECTIVE:  Visualize the United States Geological Survey (USGS) earthquake data via Leaflet mapping library, Javascript, HTML, CSS and Bootstrapping.
 
 <img width="1012" alt="Screen Shot 2023-04-04 at 7 19 23 PM" src="https://user-images.githubusercontent.com/44728723/229943289-6d631336-a989-46b8-b4e1-2f1b0b243f40.png">
 
