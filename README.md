@@ -21,9 +21,9 @@ OBJECTIVE:  Visualize the United States Geological Survey (USGS) earthquake data
 - The web visualization map includes two base layers:  a street view and a topographic view which the user can toggle between.
 - The map also includes a zoom feature.
 
+<img width="1248" alt="Screen Shot 2023-04-05 at 7 10 59 PM" src="https://user-images.githubusercontent.com/44728723/230240667-83a4f168-38b2-493d-ba34-88c4986d9030.png">
 
-  
-  
+<img width="1234" alt="Screen Shot 2023-04-05 at 7 11 13 PM" src="https://user-images.githubusercontent.com/44728723/230240675-1ddf8e13-3ddf-4190-a4aa-e48f196b0b26.png">
 
 ## Technology
 - Data:  **JSON** data files
